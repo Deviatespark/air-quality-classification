@@ -22,7 +22,8 @@ air-quality-classification/
 │   ├── confusion_matrix_without_nox.png
 │   └── confusion_matrix_random_forest.png
 ├── report/
-│   └── Air_Quality_Classification_Report_EN.docx
+│   └── EN_Air_Quality_Classification_Report_Sergio_Galvez.pdf
+│   └── ES_Air_Quality_Classification_Report_Sergio_Galvez.pdf
 ├── README.md
 └── requirements.txt (optional)
 ```
@@ -58,8 +59,8 @@ Confusion matrices and the tree plot are available in the `outputs/` folder.
 
 Detailed reports summarizing the methodology, data transformation, analysis, and results are available below:
 
-- 📘 [Read the full report in English](Report/EN_Air_Quality_Classification_Report_Sergio_Galvez.pdf)
-- 📙 [Leer el informe completo en español](Report/ES_Air_Quality_Classification_Report_Sergio_Galvez.pdf)
+- 📘 [Read the full report in English](report/EN_Air_Quality_Classification_Report_Sergio_Galvez.pdf)
+- 📙 [Leer el informe completo en español](report/ES_Air_Quality_Classification_Report_Sergio_Galvez.pdff)
 
 ---
 
